@@ -209,7 +209,7 @@ class ALL : public user{
      }
      else if(o==5){
         i=false;
-        ALL();
+       
 
      }
      
